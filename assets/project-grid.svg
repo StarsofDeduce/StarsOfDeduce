@@ -1,40 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Deployed systems</title>
-  <desc id="desc">Three dark technical cards for Aplomb, Tar V and WindHawk.</desc>
+  <title id="title">项目系统 / Deployed systems</title>
+  <desc id="desc">Aplomb、Tar V 与 WindHawk 的中英双语项目卡片。</desc>
   <rect width="1200" height="330" fill="#111318"/>
   <path d="M0 0h1200v5H0z" fill="#54baf0"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="38" y="45" fill="#c8e8ff" font-size="12" font-weight="700" letter-spacing="2.5">DEPLOYED SYSTEMS / PUBLIC INDEX</text>
-    <text x="1162" y="45" fill="#82909d" font-size="11" text-anchor="end" letter-spacing="2">03 ACTIVE NODES</text>
+  <g font-family="Microsoft YaHei, Noto Sans SC, Segoe UI, Arial, sans-serif">
+    <text x="38" y="45" fill="#c8e8ff" font-size="13" font-weight="700" letter-spacing="1.2">项目系统 / DEPLOYED SYSTEMS</text>
+    <text x="1162" y="45" fill="#82909d" font-size="11" text-anchor="end" letter-spacing="1">03 个活跃项目 / ACTIVE</text>
   </g>
-  <g transform="translate(36 72)" font-family="Segoe UI, Arial, sans-serif">
+  <g transform="translate(36 72)" font-family="Microsoft YaHei, Noto Sans SC, Segoe UI, Arial, sans-serif">
     <rect width="360" height="222" fill="#25282e" stroke="#3f85c5"/>
     <rect width="7" height="222" fill="#2782d5"/>
-    <text x="30" y="38" fill="#6fbaf3" font-size="11" font-weight="700" letter-spacing="2">SYS-01 / WINDOW CONTROL</text>
-    <text x="30" y="90" fill="#f8fbff" font-size="38" font-weight="800">Aplomb</text>
-    <text x="30" y="125" fill="#a9b4bf" font-size="15">精确、克制的窗口居中工具</text>
-    <path d="M30 151h300" stroke="#3f454d"/>
-    <text x="30" y="185" fill="#c8e8ff" font-size="12" font-weight="700" letter-spacing="1.3">PYSIDE6 · WIN32</text>
+    <text x="30" y="38" fill="#6fbaf3" font-size="10" font-weight="700" letter-spacing=".8">SYS-01 / 窗口控制 · WINDOW CONTROL</text>
+    <text x="30" y="84" fill="#f8fbff" font-size="38" font-weight="800">Aplomb</text>
+    <text x="30" y="119" fill="#d7dee5" font-size="15" font-weight="700">精确、克制的窗口居中工具</text>
+    <text x="30" y="142" fill="#8f9da9" font-size="12">Precise window centering</text>
+    <path d="M30 160h300" stroke="#3f454d"/>
+    <text x="30" y="191" fill="#c8e8ff" font-size="12" font-weight="700" letter-spacing="1.3">PYSIDE6 · WIN32</text>
     <text x="330" y="196" fill="#56b6f1" font-size="28" text-anchor="end">◇</text>
   </g>
-  <g transform="translate(420 72)" font-family="Segoe UI, Arial, sans-serif">
+  <g transform="translate(420 72)" font-family="Microsoft YaHei, Noto Sans SC, Segoe UI, Arial, sans-serif">
     <rect width="360" height="222" fill="#1b65ad" stroke="#56b6f1"/>
     <path d="M227 0h133v90L285 164H176l74-73z" fill="#56a9e8" opacity=".72"/>
-    <text x="30" y="38" fill="#d9f1ff" font-size="11" font-weight="700" letter-spacing="2">SYS-02 / PRIMARY SYSTEM</text>
-    <text x="30" y="90" fill="#fff" font-size="38" font-weight="800">Tar V</text>
-    <text x="30" y="125" fill="#e5f4ff" font-size="15">重新组织 Windows 常用入口</text>
-    <path d="M30 151h300" stroke="#c8e8ff" stroke-opacity=".35"/>
-    <text x="30" y="185" fill="#fff" font-size="12" font-weight="700" letter-spacing="1.3">ELECTRON · WIN32</text>
+    <text x="30" y="38" fill="#d9f1ff" font-size="10" font-weight="700" letter-spacing=".8">SYS-02 / 核心系统 · PRIMARY SYSTEM</text>
+    <text x="30" y="84" fill="#fff" font-size="38" font-weight="800">Tar V</text>
+    <text x="30" y="119" fill="#fff" font-size="15" font-weight="700">重新组织 Windows 常用入口</text>
+    <text x="30" y="142" fill="#d2ebff" font-size="12">Windows shortcuts, reorganized</text>
+    <path d="M30 160h300" stroke="#c8e8ff" stroke-opacity=".35"/>
+    <text x="30" y="191" fill="#fff" font-size="12" font-weight="700" letter-spacing="1.3">ELECTRON · WIN32</text>
     <text x="330" y="196" fill="#fff" font-size="28" text-anchor="end">↗</text>
   </g>
-  <g transform="translate(804 72)" font-family="Segoe UI, Arial, sans-serif">
+  <g transform="translate(804 72)" font-family="Microsoft YaHei, Noto Sans SC, Segoe UI, Arial, sans-serif">
     <rect width="360" height="222" fill="#25282e" stroke="#3f85c5"/>
     <rect width="7" height="222" fill="#2782d5"/>
-    <text x="30" y="38" fill="#6fbaf3" font-size="11" font-weight="700" letter-spacing="2">SYS-03 / SYSTEM PATCH</text>
-    <text x="30" y="90" fill="#f8fbff" font-size="38" font-weight="800">WindHawk</text>
-    <text x="30" y="125" fill="#a9b4bf" font-size="15">修正 Windows 交互细节</text>
-    <path d="M30 151h300" stroke="#3f454d"/>
-    <text x="30" y="185" fill="#c8e8ff" font-size="12" font-weight="700" letter-spacing="1.3">C++ · SYSTEM HOOK</text>
+    <text x="30" y="38" fill="#6fbaf3" font-size="10" font-weight="700" letter-spacing=".8">SYS-03 / 系统修正 · SYSTEM PATCH</text>
+    <text x="30" y="84" fill="#f8fbff" font-size="38" font-weight="800">WindHawk</text>
+    <text x="30" y="119" fill="#d7dee5" font-size="15" font-weight="700">修正 Windows 交互细节</text>
+    <text x="30" y="142" fill="#8f9da9" font-size="12">Refining Windows interactions</text>
+    <path d="M30 160h300" stroke="#3f454d"/>
+    <text x="30" y="191" fill="#c8e8ff" font-size="12" font-weight="700" letter-spacing="1.3">C++ · SYSTEM HOOK</text>
     <text x="330" y="196" fill="#56b6f1" font-size="28" text-anchor="end">△</text>
   </g>
 </svg>

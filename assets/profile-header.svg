@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">StarsofDeduce Personal Operations Directory</title>
-  <desc id="desc">A pale blue technical dossier header inspired by the StarsofDeduce personal website.</desc>
+  <title id="title">StarsofDeduce 个人操作目录 / Personal Operations Directory</title>
+  <desc id="desc">以中文为主、英文为辅的浅蓝色技术档案页眉。</desc>
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f5f8fb"/>
@@ -18,25 +18,26 @@
   <path d="M786 0h414v202L1004 360H690l192-183z" fill="#2782d5" opacity=".9"/>
   <path d="M982 0h218v112L1058 244H842l134-128z" fill="#eaf1f7" opacity=".96"/>
   <path d="M0 0h1200v42H0z" fill="#173a5a"/>
-  <g fill="#f8fbff" font-family="Segoe UI, Arial, sans-serif">
-    <text x="42" y="27" font-size="12" font-weight="700" letter-spacing="2.2">CN NODE: 175666831 / PUBLIC PERSONNEL FILE</text>
-    <text x="1158" y="27" font-size="12" font-weight="700" text-anchor="end" letter-spacing="2">ONLINE</text>
+  <g fill="#f8fbff" font-family="Microsoft YaHei, Noto Sans SC, Segoe UI, Arial, sans-serif">
+    <text x="42" y="27" font-size="12" font-weight="700" letter-spacing="1.2">中国节点：175666831 / 公开个人档案</text>
+    <text x="1158" y="27" font-size="12" font-weight="700" text-anchor="end" letter-spacing="1.2">在线 / ONLINE</text>
   </g>
   <g transform="translate(48 82)" fill="#1267b5">
     <path d="M0 34h14v38H0zm20-22h14v60H20zm20 14h14v46H40z" transform="skewY(-16)"/>
     <text x="74" y="58" font-family="Bahnschrift, Arial Narrow, Segoe UI, sans-serif" font-size="30" font-weight="800" letter-spacing="2">S/DEDUCE</text>
   </g>
-  <g font-family="Bahnschrift, Arial Narrow, Segoe UI, sans-serif">
-    <text x="48" y="205" fill="#1267b5" font-size="12" font-weight="800" letter-spacing="4">PERSONAL OPERATIONS DIRECTORY / 01</text>
+  <g font-family="Bahnschrift, Microsoft YaHei, Noto Sans SC, Arial Narrow, Segoe UI, sans-serif">
+    <text x="48" y="205" fill="#1267b5" font-size="13" font-weight="800" letter-spacing="1.5">个人操作目录 / PERSONAL OPERATIONS DIRECTORY · 01</text>
     <text x="48" y="272" fill="#121922" font-size="63" font-weight="900" letter-spacing="-2">STARSOFDEDUCE</text>
-    <text x="50" y="309" fill="#5c6874" font-size="19" letter-spacing="1.2">WINDOWS TOOLS · INTERACTION SYSTEMS · INDEPENDENT SOFTWARE</text>
+    <text x="50" y="307" fill="#405361" font-size="19" font-weight="700" letter-spacing=".8">Windows 工具 · 交互系统 · 独立软件</text>
+    <text x="50" y="329" fill="#6d7d8b" font-size="11" letter-spacing="1.5">WINDOWS TOOLS · INTERACTION SYSTEMS · INDEPENDENT SOFTWARE</text>
   </g>
   <g transform="translate(966 185)" filter="url(#shadow)">
     <rect x="-58" y="-58" width="116" height="116" fill="#111318" transform="rotate(45)"/>
     <circle r="39" fill="none" stroke="#56b6f1" stroke-width="2"/>
     <path d="M-19 12L0-21l19 33M-28 25h56" fill="none" stroke="#f8fbff" stroke-width="6" stroke-linecap="square"/>
   </g>
-  <path d="M42 333h636" stroke="#3f85c5"/>
-  <text x="1158" y="333" text-anchor="end" fill="#173a5a" font-family="Bahnschrift, Arial Narrow, Segoe UI, sans-serif" font-size="11" font-weight="700" letter-spacing="2">INTERFACE / SYSTEM / WINDOWS</text>
+  <path d="M42 345h636" stroke="#3f85c5"/>
+  <text x="1158" y="348" text-anchor="end" fill="#173a5a" font-family="Microsoft YaHei, Noto Sans SC, Segoe UI, sans-serif" font-size="11" font-weight="700" letter-spacing="1">界面 / 系统 / WINDOWS</text>
 </svg>
 

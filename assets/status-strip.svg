@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-labelledby="title">
-  <title id="title">Archive online status</title>
+  <title id="title">档案在线 / Archive online</title>
   <rect width="1200" height="104" fill="#152431"/>
   <rect y="0" width="1200" height="1" fill="#31536d"/>
   <rect x="40" y="48" width="9" height="9" fill="#48baff"/>
-  <text x="65" y="59" fill="#c8e8ff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">ARCHIVE ONLINE</text>
-  <text x="600" y="59" fill="#7f96a8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="3">BUILD / THINK / REFINE</text>
+  <text x="65" y="59" fill="#c8e8ff" font-family="Microsoft YaHei, Noto Sans SC, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">档案在线 / ARCHIVE ONLINE</text>
+  <text x="600" y="59" fill="#7f96a8" font-family="Microsoft YaHei, Noto Sans SC, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1">构建 · 思考 · 打磨 / BUILD · THINK · REFINE</text>
   <text x="1160" y="59" fill="#9db1c2" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="end" letter-spacing="2.5">STARSOFDEDUCE.GITHUB.IO ↗</text>
 </svg>
 
